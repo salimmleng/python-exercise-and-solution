@@ -13,6 +13,6 @@ arr[min_index], arr[max_index] = arr[max_index], arr[min_index]
 for num in arr:
     print(num,end=" ")
 
-# accepted
+
 
 
