@@ -1,4 +1,6 @@
 
+# one way
+
 # n = int(input())
 
 # tmp = n
@@ -19,6 +21,8 @@
 # practise day 2
 #  palindrome
 
+
+# Another way
 n = int(input())
 lst = list(map(int,input().split()))
 
@@ -29,4 +33,4 @@ else:
     print("NO")
 
 
-# accepted
+
