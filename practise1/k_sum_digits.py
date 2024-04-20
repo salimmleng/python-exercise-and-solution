@@ -11,8 +11,3 @@ n = int(input())
 a = input()
 
 sum_digits(n,a)
-
-
-
-
-# accepted
